@@ -11,7 +11,7 @@
 ## 🚀 快速开始
 
 ```bash
-git clone https://github.com/yourname/tcm-ai-rag.git
+git clone https://github.com/ouvoou/tinyLlamaIndex_rag.git
 cd tcm-ai-rag
 pip install -r requirements.txt
 python src/cli_chat.py
